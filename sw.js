@@ -1,4 +1,4 @@
-const CACHE = 'neon-slash-v2';
+const CACHE = 'neon-slash-v3';
 const FILES = ['./', './index.html', './manifest.json'];
 
 self.addEventListener('install', e => {
